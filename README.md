@@ -1,2 +1,26 @@
 # FBISE-Past-Papers-app
-FBISE Past Papers Android App made in Kodular
+This Android app helps students of **FBISE (Federal Board)** easily view and download **past papers** from SSC and HSSC, by subject and year. Built in **Kodular**.
+
+## ✨ Features
+- Select SSC or HSSC level
+- Choose class (9th, 10th, 11th, 12th)
+- View papers in-app (PDF Viewer)
+- Download papers with one click
+- Clean subject-based navigation
+- Lightweight and student-friendly design
+
+## 📱 Screenshots
+
+| Home | View PDF | Physics | Download |
+|------|----------|---------|----------|
+| ![](screenshots/home.png) | ![](screenshots/view.png) | ![](screenshots/physics.png) | ![](screenshots/download.png) |
+
+## 📥 Download APK
+
+🔗 [Click here to download the APK](https://file.garden/YOUR-LINK/FBISE_PastPapers.apk)
+
+## 👨‍💻 Developer
+
+**Your Name**  
+Email: your@email.com  
+GitHub: [github.com/yourusername](https://github.com/yourusername)
