@@ -17,7 +17,7 @@ This Android app helps students of **FBISE (Federal Board)** easily view and dow
 
 ## 📥 Download APK
 
-🔗 [Click here to download the APK](https://file.garden/YOUR-LINK/FBISE_PastPapers.apk)
+🔗 [Click here to download the APK](https://yousaf-sulaiman.itch.io/fbise-past-papers)
 
 ## 👨‍💻 Developer
 
