@@ -21,6 +21,6 @@ This Android app helps students of **FBISE (Federal Board)** easily view and dow
 
 ## 👨‍💻 Developer
 
-**Your Name**  
+**Yousaf Sulaiman, Bilal Saif**  
 Email: yousafsulaiman.apss.626@gmail.com  
 GitHub: [github.com/Yousaf814](https://github.com/Yousaf814)
