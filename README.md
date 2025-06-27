@@ -13,7 +13,7 @@ This Android app helps students of **FBISE (Federal Board)** easily view and dow
 
 | Home | View PDF | Physics | Download |
 |------|----------|---------|----------|
-| ![Home Page](screenshots/home.png) | ![](screenshots/view.png) | ![](screenshots/physics.png) | ![](screenshots/download.png) |
+| ![Home_Page](screenshots/home.png) | ![](screenshots/view.png) | ![](screenshots/physics.png) | ![](screenshots/download.png) |
 
 ## 📥 Download APK
 
