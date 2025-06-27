@@ -13,7 +13,7 @@ This Android app helps students of **FBISE (Federal Board)** easily view and dow
 
 | Home | View PDF | Physics | Chemistry | Subject Screen |
 |------|----------|---------|----------|-----------|
-| ![Home_Page](FBISE_Past_Paper_Screen_Shots/Home_Screen.png) | ![PDF](FBISE_Past_Paper_Screen_Shots/PDF.png) | ![Physics_Screen](FBISE_Past_Paper_Screen_Shots/Physics.png) | ![Chemistry](FBISE_Past_Paper_Screen_Shots/Chemistry.png) | ![Subject_Screen](FBISE_Past_Paper_Screen_Shots/Subjects_Sceen.png) |
+| ![Home_Page](FBISE_Past_Paper_Screen_Shots/Home_Screen.png) | ![PDF](FBISE_Past_Paper_Screen_Shots/PDF.png) | ![Physics_Screen](FBISE_Past_Paper_Screen_Shots/Physics.png) | ![Chemistry](FBISE_Past_Paper_Screen_Shots/Chemistry.png) | ![Subjects_Screen](FBISE_Past_Paper_Screen_Shots/Subjects_Screen.png) |
 
 ## 📥 Download APK
 
